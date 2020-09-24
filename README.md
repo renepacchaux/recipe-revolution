@@ -1,5 +1,15 @@
-# huntington-bank-pavilion
-UX on outdoor Chicago music venue
+
+## UX on outdoor Chicago music venue
+
+### Project goal
+Thread together common pain points users would have in the ticket-buying process through to the event experience.
+
+### Solution
+
+I created a user flow that met the needs of two representative users as two distinct personas. This allowed for amenity searches to center around a map of the venue. The relationship of the user to a concert-needs map secured those issues most insight indicated would ruin a concert experience overall.
+
+## The project
+
 The initial role I took was user flow creator.  Out of the many perks of outdoor concerts, (even if you like the rain), our team prepared by addressing some of the most significant risks that bear on a ruined concert experience. We make our main tool for the concert goer the mobile app, so that we can together navigate some of the issues that can make or break the concert experience.
 
 The UX team got to work. We wade through organic search.  A templatized ticketing website as ticket booth, we started to think about what the user would need.
