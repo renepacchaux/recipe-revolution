@@ -30,4 +30,4 @@ jobs:
       # Crosspost the article
       - run:
           name: run the final crosspost command as repo README
-          command: npx crosspost article README.md --to webflow | grep -c 'error'
+          command: npx crosspost article README.md --to webflow | grep -q error && exit 1
