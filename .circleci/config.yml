@@ -17,16 +17,23 @@ jobs:
       - run:
           name: Create a config file
           command: |
-            echo '{
-              "webflowArticlesUrl": "${WEBFLOW_ARTICLES_URL}",
-              "webflowApiKey": "${WEBFLOW_API_KEY}",
-              "webflowCollectionId": "${WEBFLOW_COLLECTION_ID}"
-              }' > config/store.json
+            echo "{
+              'webflowArticlesUrl': '${WEBFLOW_ARTICLES_URL}',
+              'webflowApiKey': '${WEBFLOW_API_KEY}',
+              'webflowCollectionId': ''${WEBFLOW_COLLECTION_ID}'
+              }" > config/store.json
       - run: mkdir -p ~/.config/configstore
       - run: touch ~/.config/configstore/crosspost.json
+
+
+
       - run:
           name: Configstore looks for it here
           command: mv config/store.json ~/.config/configstore/crosspost.json
+
+      # make sure its there
+      # - run: cat ~/.config/configstore/crosspost.json
+
       # Crosspost the article
       - run:
           name: run the final crosspost command as repo README
