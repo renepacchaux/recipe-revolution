@@ -6,3 +6,24 @@ jobs:
     steps:
       - checkout
       - run: node --version
+
+      - run: npm install
+      - run:
+          name: Checking for Crosspost
+          command: npx crosspost --version
+      - run:
+          name: Looking for home
+          command: mkdir config && touch config/store.json
+      - run:
+          name: Create a config file
+          command: |
+            echo '{"webflowArticlesUrl": "${WEBFLOW_ARTICLES_URL}","webflowApiKey": "${WEBFLOW_API_KEY}","webflowCollectionId": "${WEBFLOW_COLLECTION_ID}"}' > config/store.json
+      - run: mkdir -p ~/.config/configstore
+      - run: touch ~/.config/configstore/crosspost.json
+      - run:
+          name: Configstore looks for it here
+          command: mv config/store.json ~/.config/configstore/crosspost.json
+      # Crosspost the article
+      - run:
+          name: run the final crosspost command as repo README
+          command: npx crosspost article README.md --to webflow
