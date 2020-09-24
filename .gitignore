@@ -1,1 +1,7 @@
 node_modules/
+
+# Local CI Testing
+process.yml
+
+# Generated
+README.md.json
