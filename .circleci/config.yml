@@ -20,7 +20,7 @@ jobs:
             echo "{
               'webflowArticlesUrl': '${WEBFLOW_ARTICLES_URL}',
               'webflowApiKey': '${WEBFLOW_API_KEY}',
-              'webflowCollectionId': ''${WEBFLOW_COLLECTION_ID}'
+              'webflowCollectionId': '${WEBFLOW_COLLECTION_ID}'
               }" > config/store.json
       - run: mkdir -p ~/.config/configstore
       - run: touch ~/.config/configstore/crosspost.json
