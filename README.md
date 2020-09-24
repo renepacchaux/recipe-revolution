@@ -1,6 +1,6 @@
+# Huntington Bank Pavilion
 
 ## UX on outdoor Chicago music venue
-
 ### Project goal
 Thread together common pain points users would have in the ticket-buying process through to the event experience.
 
