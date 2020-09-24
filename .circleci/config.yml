@@ -12,23 +12,23 @@ jobs:
           name: Checking for Crosspost
           command: npx crosspost --version
 
-      # cutnpaste method 1 - BUST
-      # - run:
-      #     name: Looking for home
-      #     command: mkdir config && touch config/store.json
-      # - run:
-      #     name: Create a config file
-      #     command: |
-      #       echo "{
-      #         'webflowArticlesUrl': '${WEBFLOW_ARTICLES_URL}',
-      #         'webflowApiKey': '${WEBFLOW_API_KEY}',
-      #         'webflowCollectionId': '${WEBFLOW_COLLECTION_ID}'
-      #         }" > config/store.json
-      # - run: mkdir -p ~/.config/configstore
-      # # - run: touch ~/.config/configstore/crosspost.json
-      # - run:
-      #     name: Configstore looks for it here
-      #     command: mv config/store.json ~/.config/configstore/crosspost.json
+      # cutnpaste method 1 - BUST or dup
+      - run:
+          name: Looking for home
+          command: mkdir config && touch config/store.json
+      - run:
+          name: Create a config file
+          command: |
+            echo "{
+              'webflowArticlesUrl': '${WEBFLOW_ARTICLES_URL}',
+              'webflowApiKey': '${WEBFLOW_API_KEY}',
+              'webflowCollectionId': '${WEBFLOW_COLLECTION_ID}'
+              }" > config/store.json
+      - run: mkdir -p ~/.config/configstore
+      # - run: touch ~/.config/configstore/crosspost.json
+      - run:
+          name: Configstore looks for it here
+          command: mv config/store.json ~/.config/configstore/crosspost.json
 
 
 
