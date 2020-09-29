@@ -17,4 +17,4 @@ No doubt that visual representation, even blank pages, help with the mental mode
 ‍
 ‍
 
- a narrative in your presentation.‍
+Export a narrative in your presentation.‍
