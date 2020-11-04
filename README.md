@@ -4,7 +4,7 @@ We applied research the learnability principle for focusing into the app onboard
 The time to learn an app requires some reserve of motivation or excitement.
 Because onboarding is a chance to directly engage the individual on how the app is to be used, and I will explain why that must be done carefully.
 ‍
-‍
+‍![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/Figure_1-Journey_Assess_Awareness.svg)
 
 # Case Study on Recipe Revolution
 ## ‍
