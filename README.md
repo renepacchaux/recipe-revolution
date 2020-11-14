@@ -18,7 +18,7 @@ I like to use svgs. Above I only shoe the first two sections of a flow but I can
 ## ‍
 
 ## Design Workflow
-We have a chance to present with XD so here it is: https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen)
+We have a chance to present with XD so here it is: https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen
 
 Even redesigns need to respect a thinking with a clean slate.  I explore cleaning up a bit to get the device not so much shiny, but remove assumptions.  Unaligned features turn into dashed dreams later.
 ![Figure 2](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/plan_screenshot.png)
