@@ -15,7 +15,8 @@ I like to use svgs. Above I only shoe the first two sections of a flow but I can
 
 
 # Case Study on Recipe Revolution
-## ‍
+## ‍Initial State Strategy
+- Users with gluten allergies can apply a known common recipe to get back a gluten-free recipe with proper food substitutions.
 
 ## Design Workflow
 We have a chance to present with XD so here it is: https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen
