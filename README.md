@@ -11,12 +11,20 @@ But there are no shortcuts to the solution.
 ‍![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/Figure_1-Journey_Assess_Awareness.svg)
 I like to use svgs. Above I only shoe the first two sections of a flow but I can follow the line to line on the emotional hypothesis I am building.
 
+
+
+
 # Case Study on Recipe Revolution
 ## ‍
-## Designing with the presentation in mind, always.
+
+## Design Workflow
+We have a chance to present with XD so here it is: https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen
+
+Even redesigns need to respect a thinking with a clean slate.  I explore cleaning up a bit to get the device not so much shiny, but remove assumptions.  Unaligned features turn into dashed dreams later.
+https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/plan_screenshot.png
 
 **‍**
-**Finger on the pulse**
+
 ‍
 No doubt that visual representation, even lightly doodling on blank pages, help with the mental model needed to have a problem-centered design narrative.
 ‍
