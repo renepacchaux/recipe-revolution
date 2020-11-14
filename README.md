@@ -1,9 +1,12 @@
 # Recipe Revolution
-Because onboarding is a chance to directly engage the individual on how the app is to be used, learnability is a key design principle. A diet-tip seeking individual uninstalls because they have just arrived at an app where they will require more help on how to use it.
+Because onboarding is a chance to directly engage the individual on how the app is to be used, learnability is a key design principle. A diet-tip seeking individual uninstalls because they have just arrived at an app that otherwise requires more personal help on how to use it.
+
+## Solution
 We applied research the learnability principle for focusing into the app onboarding process.
 The time to learn an app requires some reserve of motivation or excitement.
 
-‍
+But there are no shortcuts to the solution.
+
 ‍![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/Figure_1-Journey_Assess_Awareness.svg)
 
 # Case Study on Recipe Revolution
@@ -13,8 +16,6 @@ The time to learn an app requires some reserve of motivation or excitement.
 **‍**
 **Finger on the pulse**
 ‍
-No doubt that visual representation, even blank pages, help with the mental model needed to have a narrative in your presentation.
+No doubt that visual representation, even lightly doodling on blank pages, help with the mental model needed to have a problem-centered design narrative.
 ‍
-‍
-
 Export a narrative in your presentation.‍
