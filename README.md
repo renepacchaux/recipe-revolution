@@ -7,6 +7,8 @@ The time to learn an app requires some reserve of motivation or excitement.
 
 But there are no shortcuts to the solution.
 
+## Contributing the the final end-state
+
 ‍![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/Figure_1-Journey_Assess_Awareness.svg)
 
 # Case Study on Recipe Revolution
