@@ -7,12 +7,6 @@ The time to learn an app requires some reserve of motivation or excitement.
 
 But there are no shortcuts to the solution.
 
-## Customer Journey 
-‍![Figure 1](https://cdn.jsdelivr.net/gh/renepacchaux/recipe-revolution@assets/Figure_1-Journey_Assess_Awareness.svg)
-I like to use svgs. Above I only shoe the first two sections of a flow but I can follow the line to line on the emotional hypothesis I am building.
-
-
-
 
 # Case Study on Recipe Revolution
 ## ‍Initial State Strategy
