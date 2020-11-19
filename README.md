@@ -12,7 +12,6 @@ We applied research the learnability principle for focusing into the app onboard
 
 But there are no shortcuts to excitement. It has to work better and faster.
 
-
 ## ‍Initial Strategy
 - Through writing out some of our assumptions, where where also able to write an interview guide to test our Low-Risk asssumptions when communicating with our stakeholders.  We agreed that on some level, we wanted users with gluten allergies can apply a known common recipe to get back a gluten-free recipe with proper food substitutions, using this app.
 
