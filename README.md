@@ -22,4 +22,4 @@ We have a chance to present with XD so here it is: https://xd.adobe.com/view/038
 ‍
 No doubt that visual representation, even lightly doodling on blank pages, help with the mental model needed to have a problem-centered design narrative.
 ‍
-Export a narrative in your presentation.‍
+
