@@ -8,6 +8,7 @@ Because onboarding is a chance to directly engage the individual on how the app 
 How could we increase uptake of users onto the app?
 
 ### Solution
+We planned interview research and among the feedback was to ask where their excitement went after downloading the app?  I information was in pieces at first until we notices the subtle theme that every interviewee _wanted_ a recipe converter.
 We applied research the learnability principle for focusing into the app onboarding process. The time it takes to learn an app requires motivation.
 
 But there are no shortcuts to excitement. It has to work better and faster.
