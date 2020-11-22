@@ -2,7 +2,7 @@
 ## Case Study on a recipe substitution app
 A mobile app that intends to improve living with health restrictions. How do you remove the complexity?
 
-Because onboarding is a chance to directly engage the individual on how the app is to be used, learnability comes up as a key design principle. A diet-tip seeking individual uninstalls because they have just arrived at an app that otherwise requires more personal help on how to use it. 
+Because onboarding is a chance to directly engage the individual on how the app is to be used, they ask "Does it work for me?" but may abruptly uninstall because they have just arrived at an app that requires 'onboarding.'
 
 ### Problem
 How could we increase uptake and retention of users onto the app?
