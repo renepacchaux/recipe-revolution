@@ -1,5 +1,5 @@
 # Recipe Revolution
-## UX opn a recipe mobile app
+## UX on a recipe mobile app
 A mobile app that intends to improve living with health restrictions. How do you remove the complexity?
 
 Because onboarding is a chance to directly engage the individual on how the app is to be used, they ask "Does it work for me?" but may abruptly uninstall because they have just arrived at an app that requires 'onboarding.'
