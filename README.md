@@ -4,7 +4,6 @@ A mobile app that intends to improve living with health restrictions. How do you
 
 Because onboarding is a chance to directly engage the individual on how the app is to be used, they ask "Does it work for me?" but may abruptly uninstall because they have just arrived at an app that requires 'onboarding.'
 
-### Problem
 How could we increase uptake and retention of users onto the app?
 
 ### Solution
@@ -13,10 +12,9 @@ We applied research the learnability principle for focusing into the app onboard
 
 But there are no shortcuts to excitement. It has to work better and faster.
 
-## ‍Initial Strategy
+#### ‍Initial Strategy
 Through writing out some of our assumptions, where where also able to write an interview guide to test our Low-Risk asssumptions when communicating with our stakeholders.  We agreed that on some level, we wanted users with gluten allergies can apply a known common recipe to get back a gluten-free recipe with proper food substitutions, using this app.
 
-## Design Workflow
 
 We have a chance to present with XD so here it is: https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen
 
