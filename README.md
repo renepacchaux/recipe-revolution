@@ -4,9 +4,9 @@ A mobile app improving a life with health restrictions. How do you remove the co
 
 Because onboarding is a chance to directly engage the individual on how the app is to be used, they ask "Does it work for me?" but may abruptly uninstall because they have just arrived at an app that requires 'onboarding.'
 
+### Project Challenge
 How could we increase uptake and retention of users onto the app?
 
-### Solution
 We planned interview research and among the feedback was to ask where their excitement went after downloading the app?  I information was in pieces at first until we notices the subtle theme that every interviewee _wanted_ a recipe converter.
 We applied research the learnability principle for focusing into the app onboarding process. The time it takes to learn an app requires motivation.
 
