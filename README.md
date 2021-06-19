@@ -18,7 +18,7 @@ Our issue was that our user had to learn a lot just to get started.  If the user
 Can we get the number of clicks to input a recipe down to some very small number -- yet implement an "onboarding" feature as required by the product owner?  We set out to imagine more than one user to represent who we are trying to serve, in a very targeted way.
 
 
-#### ‍Initial Strategy
+#### The Meat of Our Strategy
 
 We planned interview research and among the feedback was to ask where their excitement went after downloading the app?  I information was in pieces at first until we notices the subtle theme thate converter.
 We applied research the learnability principle for focusing into the app onboarding process. The time it takes to learn an app requires motivation.
