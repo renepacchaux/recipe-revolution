@@ -2,6 +2,7 @@
 ## Recipe App Overview
 A mobile app improving a life with health restrictions
 
+Abrupt uninstalls needed addressing. 
 
 ### Project Challenge
 How could we increase uptake and retention of users onto the app?
