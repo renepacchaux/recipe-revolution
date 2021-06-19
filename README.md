@@ -11,6 +11,12 @@ For a dietary-restrictive informational app, how could address target users in a
 
 Every person we interviewed _wanted_ this to work. This app, created by two doctors, did the work of crunching recipe number to get you a _gluten-free_ result.  There are hurdles, but those obstacles lay at the moment the app is installed -- requiring the user to do the bulk of the learning.  The user had a lot of work to do immediately after install.
 
+#### Why Learnability?
+Our issue was that our user had to learn a lot just to get started.  If the user can learn quickly, that is great.  If we can remove some obstacles -- even better.
+
+#### Goals & Objectives
+Can we get the number of clicks to input a recipe down to some very small number -- yet implement an "onboarding" feature as required by the product owner?  We set out to imagine more than one user to represent who we are trying to serve, in a very targeted way.
+
 
 #### ‍Initial Strategy
 
