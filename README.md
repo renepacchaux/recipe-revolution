@@ -5,8 +5,8 @@ A mobile app improving a life with health restrictions
 Abrupt uninstalls needed addressing. 
 
 ### Project Challenge
-How could we increase uptake and retention of users onto the app?
-
+For a dietary-restrictive informational app, how could address target users in a more direct way?
+#### Background
 We planned interview research and among the feedback was to ask where their excitement went after downloading the app?  I information was in pieces at first until we notices the subtle theme that every interviewee _wanted_ a recipe converter.
 We applied research the learnability principle for focusing into the app onboarding process. The time it takes to learn an app requires motivation.
 
