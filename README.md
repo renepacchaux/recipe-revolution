@@ -1,8 +1,7 @@
 # Recipe Revolution
-## UX on a recipe mobile app
+## Recipe App Overview
 A mobile app improving a life with health restrictions
 
-Because onboarding is a chance to directly engage the individual on how the app is to be used, they ask "Does it work for me?" but may abruptly uninstall because they have just arrived at an app that requires 'onboarding.'
 
 ### Project Challenge
 How could we increase uptake and retention of users onto the app?
