@@ -1,27 +1,26 @@
-# Visual Representations
+# The prototype
+
+1.  [Recipe Revolution](#orgeb96fc0)
+    1.  [What we are trying to learn](#orgde79560)
+        1.  [A recipe app](#org9ee3567)
+    2.  [Goals & Objectives](#org4900df7)
 
 
-1.  [Recipe Revolution](#org9f92183)
-    1.  [What we are trying to learn](#org5d31dec)
-        1.  [Recipe App](#orgcd9ffd1)
-    2.  [Goals & Objectives](#orgdb6274a)
-
-
-<a id="org9f92183"></a>
+<a id="orgeb96fc0"></a>
 
 # Recipe Revolution
 
 <https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>
 
 
-<a id="org5d31dec"></a>
+<a id="orgde79560"></a>
 
 ## What we are trying to learn
 
 
-<a id="orgcd9ffd1"></a>
+<a id="org9ee3567"></a>
 
-### Recipe App
+### A recipe app
 
 A mobile app improving a life with health restrictions Abrupt uninstalls
 needed addressing.
@@ -46,7 +45,7 @@ the user can learn quickly, that is great. If we can remove some
 obstacles &#x2013; even better.
 
 
-<a id="orgdb6274a"></a>
+<a id="org4900df7"></a>
 
 ## Goals & Objectives
 
