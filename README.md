@@ -1,11 +1,12 @@
 # Conversion Revolution
 
-1.  [Recipe Revolution](#org00d64e4)
-    1.  [Learnings we are powering up](#orgaf9ba2c)
-        1.  [To our goals](#org20f4ba0)
+
+1.  [Recipe Revolution](#orgbea0aa7)
+    1.  [Learnings we are powering up](#org7c9a1bf)
+        1.  [To our goals](#org258d5b4)
 
 
-<a id="org00d64e4"></a>
+<a id="orgbea0aa7"></a>
 
 # Recipe Revolution
 
@@ -13,7 +14,7 @@
 <https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>
 
 
-<a id="orgaf9ba2c"></a>
+<a id="org7c9a1bf"></a>
 
 ## Learnings we are powering up
 
@@ -43,7 +44,7 @@ the user can learn quickly, that is great. If we can remove some
 obstacles &#x2013; even better.
 
 
-<a id="org20f4ba0"></a>
+<a id="org258d5b4"></a>
 
 ### To our goals
 
@@ -59,14 +60,14 @@ We planned interview research and among the feedback was to ask where
 their excitement went after downloading the app? The information was in
 pieces at first until we noticed the subtle theme within the converter.
 
-We applied research the learnability principle for focusing into the app
+We applied research the learnability principle for focusing on the app
 onboarding process. The time it takes to learn an app requires
 motivation. But there are no shortcuts to excitement. It has to work
 better and faster.
 
 Throughout writing some of our assumptions, we were also able to write
-an interview guide to test our Low-Risk asssumptions when communicating
-with our stakeholders. We agreed that on some level, we wanted users
+an interview guide to test our Low-Risk assumptions when communicating
+with our stakeholders. We agreed that, on some level, we wanted users
 with gluten allergies can apply a known common recipe to get back a
 gluten-free recipe with proper food substitutions, using this app.
 
