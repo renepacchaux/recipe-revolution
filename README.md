@@ -1,12 +1,12 @@
-# Conversion Revolution
+# App for dietary requirements
 
 
-1.  [Recipe Revolution](#orgbea0aa7)
-    1.  [Learnings we are powering up](#org7c9a1bf)
-        1.  [To our goals](#org258d5b4)
+1.  [Recipe Revolution](#orgebdf767)
+    1.  [Learning to represent restrictions](#org964e166)
+        1.  [To our goals](#org363c46d)
 
 
-<a id="orgbea0aa7"></a>
+<a id="orgebdf767"></a>
 
 # Recipe Revolution
 
@@ -14,19 +14,20 @@
 <https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>
 
 
-<a id="org7c9a1bf"></a>
+<a id="org964e166"></a>
 
-## Learnings we are powering up
+## Learning to represent restrictions
 
-**A recipe app**
+****\*\*\*\*An already created recipe app****
 
-A mobile app improving a life with health restrictions Abrupt uninstalls
-needed addressing.
+I stepped into this project for an app that was already created. A
+mobile app improving a life with health restrictions. The work has great
+affect after the launch.
 
 **Project Challenge**
 
 For a dietary-restrictive informational app, how could address target
-users in a more direct way?
+users in a more direct way? Abrupt uninstalls needed addressing.
 
 **Background**
 
@@ -44,33 +45,41 @@ the user can learn quickly, that is great. If we can remove some
 obstacles &#x2013; even better.
 
 
-<a id="org258d5b4"></a>
+<a id="org363c46d"></a>
 
 ### To our goals
 
-Can we get the number of clicks to input a recipe down to some very
-small number. Yet, the stakeholder wants to implement an "onboarding"
-feature as required by the product owner? In a very imaginative but
-focused way, we set out to imagine more than one user to represent who
-we are trying to serve.
+Let us try to get the number of clicks needed to input a recipe down to
+some very small number. The stakeholder wants to implement an
+"onboarding" feature . In a very imaginative but focused way, we set out
+to bring out in a (visualization)[#] a persona of one user. They will
+help us mentally paint who we are trying to serve.
 
-**The Meat of Our Strategy**
+**Depth of Strategy**
 
 We planned interview research and among the feedback was to ask where
-their excitement went after downloading the app? The information was in
-pieces at first until we noticed the subtle theme within the converter.
+their excitement went after downloading from the iOS Store? The
+interviews said the information was in pieces at first. I noticed a
+subtle pattern within the recipe calculator.
 
-We applied research the learnability principle for focusing on the app
-onboarding process. The time it takes to learn an app requires
-motivation. But there are no shortcuts to excitement. It has to work
-better and faster.
+I kept in mind what amount of time it takes to learn the app, and what
+can be put into an onboarding system. The process of going through
+onboarding will cost time for the user. The time it takes to learn an
+app requires motivation. But there are no shortcuts to excitement. It
+has to work better and faster.
 
-Throughout writing some of our assumptions, we were also able to write
-an interview guide to test our Low-Risk assumptions when communicating
-with our stakeholders. We agreed that, on some level, we wanted users
-with gluten allergies can apply a known common recipe to get back a
-gluten-free recipe with proper food substitutions, using this app.
+I still had a list from the top of the project where we had unfiltered
+thoughts on the project in a list form. I incorporated this into the
+question guide when we conducted interviews. Prior to this, I also
+brought it up to the founder of the app. My notes from that interview
+included that users with gluten allergies wanted to apply a known common
+recipe to get back a set of ingredients that could not contain specific
+items.
 
-No doubt that visual representation, even lightly doodling on blank
-pages, help with the mental model needed to have a problem-centered
-design narrative. ‍
+**Sketches**
+
+I needed to have the core issue revealed to me. I was versatile in
+drawing many components on a mobile-sized canvas, just so I can define
+the boundaries of what our team is doing. I want to have in mind a
+better picture what my contribution will be. ‍
+
