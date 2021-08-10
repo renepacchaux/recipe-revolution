@@ -74,4 +74,3 @@ gluten-free recipe with proper food substitutions, using this app.
 No doubt that visual representation, even lightly doodling on blank
 pages, help with the mental model needed to have a problem-centered
 design narrative. ‍
-
