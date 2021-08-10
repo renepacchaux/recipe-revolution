@@ -18,7 +18,7 @@
 
 ## Learning to represent restrictions
 
-****\*\*\*\*An already created recipe app****
+***An already created recipe app***
 
 I stepped into this project for an app that was already created. A
 mobile app improving a life with health restrictions. The work has great
