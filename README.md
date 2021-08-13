@@ -1,24 +1,26 @@
-# App for dietary requirements
-
-
-1.  [Recipe Revolution](#orgebdf767)
-    1.  [Learning to represent restrictions](#org964e166)
-        1.  [To our goals](#org363c46d)
-
-
-<a id="orgebdf767"></a>
-
 # Recipe Revolution
 
+
+1.  [Recipe Revolution](#org89b1a48)
+    1.  [# App for dietary requirements](#orge63c678)
+2.  [Visuals for recipes](#org7f0f3d7)
+    1.  [To our goals](#org4866855)
+
+
+<a id="org89b1a48"></a>
+
+<a id="orge63c678"></a>
+
+## # App for dietary requirements
 
 <https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>
 
 
-<a id="org964e166"></a>
+<a id="org7f0f3d7"></a>
 
-## Learning to represent restrictions
+# Visuals for recipes
 
-***An already created recipe app***
+****\*\*\*\*An already created recipe app****
 
 I stepped into this project for an app that was already created. A
 mobile app improving a life with health restrictions. The work has great
@@ -45,9 +47,9 @@ the user can learn quickly, that is great. If we can remove some
 obstacles &#x2013; even better.
 
 
-<a id="org363c46d"></a>
+<a id="org4866855"></a>
 
-### To our goals
+## To our goals
 
 Let us try to get the number of clicks needed to input a recipe down to
 some very small number. The stakeholder wants to implement an
