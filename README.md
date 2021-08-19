@@ -39,12 +39,12 @@ How can my work lead to a well rounded and informed user as the goal?
 
 Will uninstalls decrease?
 
-Tasked with a portion of the inital research, one of the first things I
+Tasked with a portion of the initial research, one of the first things I
 did was get a user flow drawn. For a recipe creation app, user's needed
 their priorities addressed immediately.
 
 In front of me, I had summaries of Apple store analytics metrics
-provided. A quick analysis and I was able to spot abrupt uninstalls. It
+provided. A quick analysis, and I was able to spot abrupt uninstalls. It
 was clear to me that the flow needed further addressing.
 
 At multiple points, the previous design decisions seemed to focus on
@@ -58,13 +58,13 @@ I wanted to know more about how it got to this point.
 This app, created by two doctors, did the work of crunching recipe
 numbers to get you a *gluten-free* result.
 
-There are hurdles to recipe making, but those obstacles persist,
-physically, at the moment when the app is installed. Our user's hands
+There are hurdles to recipe making, but those obstacles persist
+physically when the app is installed. Our user's hands
 are full doing the cooking, literally. I say this is not the best time
 to do much more. This requires the user to do the bulk of the learning
 at this crucial time.
 
-Two doctors behind the project just speaks to the authentic nature of
+The two doctors behind the project speak to the authentic nature of
 putting the health of others first. That was a given. What was not a
 give is a requirement that flew under the radar. It was clear a business
 need that there had to be user-contributed meal pictures.
@@ -74,7 +74,7 @@ Again, the user had a lot of work to do immediately after installing.
 Add to that, confirming checkbox legal agreements to put resistance to
 divided excitement.
 
-After all, while taking part in the design of questionnaire, I learned
+After all, while taking part in the design of the questionnaire, I learned
 from users I interviewed \*\*that *most actually wanted this recipe app to
 work better* for them.
 
@@ -96,26 +96,26 @@ After all, I take it as an implicit requirement of the business.
 
 ### Roles and Goals
 
-In a very imaginative but focused way i created a representation of our
-user. I scheduled time to make a persona. This ended up turning into two
+In a very imaginative but focused way, I created a representation of our
+users. I scheduled time to make a persona. This ended up turning into two
 personas.
 
 There are some distinctions to the personas that pointed to a user in a
-different category, from the work we did on the thematic board. This is
+different category from the work we did on the thematic board. This is
 why we came up with a second user representation.
 
 I need to identify my target. This will help me mentally paint the user.
-User is now in my head. It would not live in there forever, though. To
-offload those thoughts, Icontribute to the playfulness of the pencil
-sketches. I need to room to draw loosely, therefore thinking freely. My
+The user is now in my head. It would not live in there forever, though. To
+offload those thoughts, I contribute to the playfulness of the pencil
+sketches. I need room to draw loosely, therefore thinking freely. My
 goal is to know what I needed to leave out, as opposed to coral group
-ideas in.
+ideas.
 
 I set up a mental test of the number of clicks needed to input a recipe
 down to some very small number. Some of the design stuff was indeed a
-distraction according the the testing.
+distraction, according to the testing.
 
-As interviewer for a second interview, I took side notes on questions
+As an interviewer for a second interview, I took side notes on questions
 answered by the app co-founder. The stakeholder wants to implement an
 "onboarding" feature. That onboarding feature stayed to this day.
 
@@ -127,12 +127,12 @@ onboarding will cost time for the user. I still had a list from the top
 of the project. I contributed unfiltered thoughts on the project this
 way.
 
-I had planned interview research within a short time span.I incorporated
+I had planned interview research within a short period. I incorporated
 this into the question guide in preparation for conducting a set of user
 interviews.
 
-Implicit image upload was not a thing. At this time “onboarding” was. I
-brought follow up questions to the creator on the specifics of the
+Implicit image upload was not a thing. At this time, “onboarding” was. I
+brought follow-up questions to the creator on the specifics of the
 onboarding requirements. The questions were prepared beforehand.
 
 Following up on better and faster app usage, the time it takes to learn
@@ -141,7 +141,7 @@ can make to clarify to the new user that this will be a clear,
 snowballing, fun process?
 
 It has to work better and faster while we assert this through user
-testing. The user went through the app at certain obstacles, they were
+testing. The user went through the app at certain obstacles. They were
 not obstacles anymore. The user's excitement diminished after
 downloading from the iOS Store, our user feedback told me.
 
@@ -151,51 +151,51 @@ ingredients that could not contain specific items The users needed to
 get a fast solution given by the likely circumstances.
 
 There was something very stylistically similar about the picture of
-meals added in the app. The app was seeded with a pictures of meals
+meals added in the app. The app was seeded with pictures of meals
 created under similar visual depth and lighting conditions. We
-interviewed the stakeholder briefly. Yes he did do some uploads. Here
-was our implicit requirement. There was a measure of certaintly that
+interviewed the stakeholder briefly. Yes, he did do some uploads. Here
+was our implicit requirement. There was a measure of certainty that
 this needed to happen, so much so that an attempt to get the ball
 rolling was made in that respect.
 
-When I first downloaded the appI had burning questions and wanted to
-take a look. I wanted to just to gain a bit of faux-user insight. So, I
-became a user, briefly, and downloaded the app.
+When I first downloaded the app, I had burning questions and wanted to
+take a look. I just wanted to gain a bit of faux-user insight. So, I
+became a user briefly and downloaded the app.
 
-I noticed a subtle separation in pattern within the recipe calculator.
-Was the source of these picture known to one of the co-founders? In
+I noticed a subtle separation in the pattern within the recipe calculator.
+Was the source of these pictures known to one of the co-founders? In
 taking a look and breaking up the answers, the interviews also showed me
 the information on download was in pieces at first.
 
 **Sketches**
 
 I was versatile in drawing essentially the digital equivalent of moving
-parts on pocket-sized portrait rectangle. What was the core issue I was
+parts on a pocket-sized portrait rectangle. What was the core issue I was
 there to solve? I needed to unearth it. It is always a combination of
-factors that lead to an undesired outcome, rather than a holy-grail
+factors that lead to an undesired outcome rather than a holy-grail
 answer?
 
-Until know, I worked my time management musces and policed my own time
+Until now, I worked my time management muscles and policed my own time
 per task. I time slot per question answered. I want to have in mind a
-better picture of what my contribution will be. I wanted to define the
+better picture of what my contribution will be. I tried to define the
 boundaries of what I was doing. I segmented my time explicitly. I still
 do that today, even.  
 In my approach to boxing my time, my attention to the task was greater,
 and the work improved. In meetings, I did this for myself behind the
-scenes by preparing estimates of time I would take up to put an idea
+scenes by preparing estimates of the time I would take up to put an idea
 forward.
 
-My quiet time boundary plan in still in use today.
+My quiet time boundary plan is still in use today.
 
 
 <a id="orgc505163"></a>
 
 ### Conclusion
 
-In other areas of life, Its always a combination of factors that lead to
+In other areas of life, It's always a combination of factors that lead to
 an undesired state. Working with the stakeholder to house the idea of an
 onboarding ramp on to their project, I stuck to their requirements. I
-did not have yet an appropriate guaging of project priorites and what
+did not yet have an appropriate gauging of project priorities and what
 could be chalked up to and indefinate pursuit of side problem.
 
 **Summary**
@@ -205,4 +205,3 @@ Don't get in the way of learning. Know what to leave out.
 **See for yourself**
 
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
-
