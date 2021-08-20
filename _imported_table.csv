@@ -1,0 +1,6 @@
+﻿Pros,Cons
+Fast way to break down a food into its parts,Will have to scrutinized heavily.  e.g. whitelist vs blacklist restricted ingredient
+"Can be a way to identify 'restriction' targets e.g dough, pizza (gluten)","May need to be left to user to approve the conversion, which may not be an safe option"
+can provide for normalization of ingredients,"Amounts like ""drizzling"" etc, may not be included in a typical conversion"
+Other metrics and categories can guide personalization. e.g. Produce vs Cheese,Whole recipe might have to undergo a second or more rounds of conversion
+,
