@@ -1,28 +1,21 @@
-
-# Table of Contents
-
-1.  [Recipe Revolution](#org9695bdb)
-        1.  [# Uptake and revolution](#org20df2c8)
-    1.  [Validating visuals](#orgb3613ec)
-        1.  [Roles and Goals](#org4a337cd)
-        2.  [Conclusion](#orgbee525d)
-
-
-<a id="org9695bdb"></a>
-
 # Recipe Revolution
 
+1.  [Recipe Revolution](#orgf7c277d)
+        1.  [Uptake and revolution](#orgd4496fc)
+2.  [Validating visuals](#orgd4ccac6)
+    1.  [Roles and Goals](#orgab7bb20)
+    2.  [Conclusion](#orgefd181b)
 
-<a id="org20df2c8"></a>
-
-### # Uptake and revolution
-
-<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>
 
 
-<a id="orgb3613ec"></a>
+<a id="orgd4496fc"></a>
 
-## Validating visuals
+### Uptake and revolution
+
+
+<a id="orgd4ccac6"></a>
+
+# Validating visuals
 
 **An already created recipe app**
 
@@ -99,9 +92,9 @@ it give us positive vibes to focus on the upload meal as a feature?
 After all, I take it as an implicit requirement of the business.
 
 
-<a id="org4a337cd"></a>
+<a id="orgab7bb20"></a>
 
-### Roles and Goals
+## Roles and Goals
 
 In a very imaginative but focused way, I created a representation of our
 users. I scheduled time to make a persona. This ended up turning into
@@ -122,84 +115,7 @@ I set up a mental test of the number of clicks needed to input a recipe
 down to some very small number. Some of the design stuff was indeed a
 distraction, according to the testing.
 
-<https://airtable.com/embed/shr31gTd4ZkbHHrh1?backgroundColor=orange>
-
-<https://airtable.com/embed/shr31gTd4ZkbHHrh1>
-
-Or
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">Pros</td>
-<td class="org-left">Cons</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
----
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
----
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Fast way to break down a food into its parts</td>
-<td class="org-left">Will have to</td>
-</tr>
-</tbody>
-</table>
-
-scrutinized heavily. e.g. whitelist vs blacklist restricted ingredient |
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">Can be a way to identify 'restriction' targets e.g dough, pizza</td>
-</tr>
-</tbody>
-</table>
-
-(gluten) | May need to be left to user to approve the conversion, which
-may not be an safe option | | can provide for normalization of
-ingredients | Amounts like "drizzling" etc, may not be included in a
-typical conversion | | Other metrics and categories can guide
-personalization. e.g. Produce vs Cheese | Whole recipe might have to
-undergo a second or more rounds of conversion | | | |
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
 
 As an interviewer for a second interview, I took side notes on questions
 answered by the app co-founder. The stakeholder wants to implement an
@@ -274,9 +190,9 @@ scenes by preparing estimates of the amount of time I would take up to
 put an idea forward.
 
 
-<a id="orgbee525d"></a>
+<a id="orgefd181b"></a>
 
-### Conclusion
+## Conclusion
 
 In other areas of life, It is always a combination of factors that lead
 to an undesired state. Working with the stakeholder to house the idea of
