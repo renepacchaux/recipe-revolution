@@ -1,19 +1,34 @@
-# Recipe Apps
+1.  # Uptake obstacles
 
 
-1.  [Recipe Revolution](#orgd2ee940)
-    1.  [Visuals that work](#orgb25b09a)
-    2.  [user-flow-with-uninstall](#orge3265e9)
-    3.  [figure-recipe-extraction](#orgcc89918)
+1.  [Recipe Revolution](#orgfaddcb2)
+    1.  [Visuals that work](#org252c1bd)
+        1.  [Project Challenge](#orgb119b4a)
+        2.  [Research](#org206c365)
+        3.  [Design Work](#orgb8e69f1)
 
 
-<a id="orgd2ee940"></a>
+<a id="orgfaddcb2"></a>
 
 # Recipe Revolution
 
-<a id="orgb25b09a"></a>
+[prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
+
+
+<a id="org252c1bd"></a>
 
 ## Visuals that work
+
+
+<a id="orgb119b4a"></a>
+
+### Project Challenge
+
+There were too many hurdles to getting the first recipe. I needed that
+time to be shorter, to know I made made a dent. Apple store analytics
+showed abrupt uninstalls. It was clear to me that if the digital flow
+where improved, and clicks down to a small number, I could make way for
+other issues that needed further addressing.
 
 **UX Designer Thought Process**
 
@@ -33,7 +48,7 @@ the scenes with a digital set of timers . I prepared estimates of the
 amount of time I would take up. I controlled the pace at which my ideas
 were put forth.
 
-**What went wrong**
+**The wrong flow**
 
 For some gluten intake may improve your life. For others, it is life or
 death.
@@ -45,39 +60,26 @@ take away. But I identified an implicit requirement: user-uploaded
 foodie photos. There were a business requirement and part of the cycle
 of decreasing learn times by crowd-converting recipes.
 
-**Project Challenge**
 
+<a id="org206c365"></a>
 
-<a id="orge3265e9"></a>
+### Research
 
-## user-flow-with-uninstall
+Many users I interviewed wanted the recipe app to work better. There
+being two doctors behind the project was a hit with users as well.
 
-There were too many hurdles to getting the first recipe. I needed that
-time to be shorter, to know I made made a dent. Apple store analytics
-showed abrupt uninstalls. It was clear to me that if the digital flow
-where improved, and clicks down to a small number, I could make way for
-other issues that needed further addressing. **\*\*** **App Background**
+**App Background**
 
-Created by two doctorsto get you recipes that were *gluten-free.*
+Created by two doctors to get you recipes that were *gluten-free.*
 
 It does not work to be in a kitchen following a recipe off the phone
 while checking off disclaimer boxes, learning how to do that, then
 learning the original thing again.
 
-**Research**
-
-Many users I interviewed wanted the recipe app to work better. There
-being two doctors behind the project was a hit with users as well.
-
 Back in the interview with the stakeholder, I got my first glimpse of an
 spoken need - onboarding. There was a clear business need that almost
 flew under the radar if it were not for imagery in the up-and-running
 app.
-
-
-<a id="orgcc89918"></a>
-
-## figure-recipe-extraction
 
 Let us talk about a physical hurdle. The user's hands are full doing the
 cooking, literally. One cannot do much more other than the two things of
@@ -112,7 +114,10 @@ areas of the visuals were a distraciton.
 At a second stakeholder interview, onboarding had stayed on as priority
 one. I was able to work with that.
 
-**Design Work**
+
+<a id="orgb8e69f1"></a>
+
+### Design Work
 
 I kept my ideas from surpassing the onboarding requirement, while
 keeping the second requirement of user-uploads in the back of my mind. I
