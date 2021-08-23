@@ -1,209 +1,172 @@
+# Recipe Apps
+
+
+1.  [Recipe Revolution](#orgd2ee940)
+    1.  [Visuals that work](#orgb25b09a)
+    2.  [user-flow-with-uninstall](#orge3265e9)
+    3.  [figure-recipe-extraction](#orgcc89918)
+
+
+<a id="orgd2ee940"></a>
+
 # Recipe Revolution
 
-1.  [Recipe Revolution](#orgf7c277d)
-        1.  [Uptake and revolution](#orgd4496fc)
-2.  [Validating visuals](#orgd4ccac6)
-    1.  [Roles and Goals](#orgab7bb20)
-    2.  [Conclusion](#orgefd181b)
+<a id="orgb25b09a"></a>
 
+## Visuals that work
 
+**UX Designer Thought Process**
 
-<a id="orgd4496fc"></a>
+How can my work lead to a well-rounded and informed goal? There are many
+points I will make about how I came to realize what can be considered a
+big deal to the business and the user. I'll also tell you what I did
+about it.
 
-### Uptake and revolution
+The implementation gave me positive vibes. I focused on nuanced evidence
+of a seeded approach to the upload meal feature? This case study focuses
+on why it wasn't mentioned to get instagram-style foodie meal selfies on
+the app as soon as possible.
 
+I box my time. As a result, my attention to the task was greater, and
+the work improved when I had micro-deadlines. In meetings, I did behind
+the scenes with a digital set of timers . I prepared estimates of the
+amount of time I would take up. I controlled the pace at which my ideas
+were put forth.
 
-<a id="orgd4ccac6"></a>
+**What went wrong**
 
-# Validating visuals
+For some gluten intake may improve your life. For others, it is life or
+death.
 
-**An already created recipe app**
-
-A mobile app is improving a life with health ingredient boundaries. The
-work is societally important and so was the launch.
-
-I stepped into this project for an app that was already created. My role
-was to improve the UI. Other flows did not have so many hurdles to
-finding a user-contributed recipe. I made a point to rid of unnecessary
-obstacles soon.
-
-There was an issue I did not expect. Legalese peppered the app. over
-seasoned it for sure. Are legal cookie warnings something to shy away
-from? What if the scope of agreements to the user impedes my work to
-make it simpler for the user. Those work together.
-
-How can my work lead to a well-rounded and informed user as the goal?
+We did not expect to see so many obstacles. Many pixels were dedicated
+to warnings about even using the app. This is not what went wrong.
+Shifting pixels for legal cookie warnings seems like something easy to
+take away. But I identified an implicit requirement: user-uploaded
+foodie photos. There were a business requirement and part of the cycle
+of decreasing learn times by crowd-converting recipes.
 
 **Project Challenge**
 
-Will uninstalls decrease?
 
-Tasked with a portion of the initial research, one of the first things I
-did was get a user flow drawn. For a recipe creation app, user's needed
-their priorities addressed immediately.
+<a id="orge3265e9"></a>
 
-In front of me, I had summaries of Apple store analytics metrics
-provided. A quick analysis, and I was able to spot abrupt uninstalls. It
-was clear to me that the flow needed further addressing.
+## user-flow-with-uninstall
 
-At multiple points, the previous design decisions seemed to focus on
-legal protections and warnings, obscuring a critical learning phase of
-the app.
+There were too many hurdles to getting the first recipe. I needed that
+time to be shorter, to know I made made a dent. Apple store analytics
+showed abrupt uninstalls. It was clear to me that if the digital flow
+where improved, and clicks down to a small number, I could make way for
+other issues that needed further addressing. **\*\*** **App Background**
 
-I wanted to know more about how it got to this point.
+Created by two doctorsto get you recipes that were *gluten-free.*
 
-**Background**
+It does not work to be in a kitchen following a recipe off the phone
+while checking off disclaimer boxes, learning how to do that, then
+learning the original thing again.
 
-This app, created by two doctors, did the work of crunching recipe
-numbers to get you a *gluten-free* result.
+**Research**
 
-There are hurdles to recipe making, but those obstacles persist
-physically when the app is installed. Our user's hands are full doing
-the cooking, literally. I say this is not the best time to do much more.
-This requires the user to do the bulk of the learning at this crucial
-time.
+Many users I interviewed wanted the recipe app to work better. There
+being two doctors behind the project was a hit with users as well.
 
-The fact that there are two doctors behind the project speak to the
-authentic nature of putting the health of others first. That was a
-given. What was not a give is a requirement that flew under the radar.
-It was clear a business need that there had to be user-contributed meal
-pictures.
-
-Again, the user had a lot of work to do immediately after installing.
-
-Add to that, confirming checkbox legal agreements to put resistance to
-divided excitement.
-
-After all, while taking part in the design of the questionnaire, I
-learned from users I interviewed/,/ that \*most actually wanted this
-recipe app to work better \*for them.
-
-**Fast learners win prizes**
-
-Ok. Our initial issue was that the user had to learn a lot just to get
-started. In following this frustration, I diagrammed. My diagrams of the
-flow gave me direction on what I might tackle next; to see what is
-connected.
-
-If the user can learn quickly, that is great. How do I quantify learning
-time? To improve all things app-related, I would like to take away some
-of the time it takes for the user to learn the app. Down the line, does
-it give us positive vibes to focus on the upload meal as a feature?
-After all, I take it as an implicit requirement of the business.
+Back in the interview with the stakeholder, I got my first glimpse of an
+spoken need - onboarding. There was a clear business need that almost
+flew under the radar if it were not for imagery in the up-and-running
+app.
 
 
-<a id="orgab7bb20"></a>
+<a id="orgcc89918"></a>
 
-## Roles and Goals
+## figure-recipe-extraction
 
-In a very imaginative but focused way, I created a representation of our
-users. I scheduled time to make a persona. This ended up turning into
-two personas.
+Let us talk about a physical hurdle. The user's hands are full doing the
+cooking, literally. One cannot do much more other than the two things of
+cooking and going off a recipe. Our first steps in sketching brought us
+towards doing some of the the upfront learning, to scale, for the user
+base. When we tested the sketches, we also testing the learning times.
 
-There are some distinctions to the personas that pointed to a user in a
-different category from the work we did on the thematic board. This is
-why we came up with a second user representation.
+The solution was cut the time-to-conversion steps to a small number.
 
-I need to identify my target. This will help me mentally paint the user.
-The user is now in my head. It would not live in there forever, though.
-To offload those thoughts, I contribute to the playfulness of the pencil
-sketches. I need room to draw loosely, therefore thinking freely. My
-goal is to know what I needed to leave out, as opposed to coral group
-ideas.
+**Removing obstacles to fast learning**
 
-I set up a mental test of the number of clicks needed to input a recipe
-down to some very small number. Some of the design stuff was indeed a
-distraction, according to the testing.
+Userflows are a glimpse into a direction a user can take within the
+bounds of the app. To improve time it takes to learn the app, we improve
+the user flow.
 
-![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
+The business went as far as to seed the application with photos. This
+action validates the gap between where the app is now and where the
+business wants it to be.
 
-As an interviewer for a second interview, I took side notes on questions
-answered by the app co-founder. The stakeholder wants to implement an
-"onboarding" feature. That onboarding feature stayed to this day.
+**What I did to start the process**
 
-**One Strategy**
+To get ideas out of my head and onto paper, I had a sketch design
+session. In a very imaginative but focused way, I created a
+representation of our users. I scheduled time to make a persona. This
+ended up turning into two personas.
 
-I kept in mind what amount of time it takes to learn the app and what
-can be put into an onboarding system. The process of going through
-onboarding will cost time for the user. I still had a list from the top
-of the project. I contributed unfiltered thoughts on the project this
-way.
+I connect with the playfulness of the pencil sketches to think freely,
+and draw from a high quantity on inspiration. I need to know what to
+leave out. Sketching helps with that. According to the testing, some
+areas of the visuals were a distraciton.
 
-I had planned interview research within a short time. I incorporated
-this into the question guide in preparation for conducting a set of user
-interviews.
+At a second stakeholder interview, onboarding had stayed on as priority
+one. I was able to work with that.
 
-Implicit image upload was not a thing. At this time, “onboarding” was. I
-brought follow-up questions to the creator on the specifics of the
-onboarding requirements. The questions were prepared beforehand.
+**Design Work**
 
-Following up on better and faster app usage, the time it takes to learn
-an app requires motivation *and* time. What are the design decisions I
-can make to clarify to the new user that this will be a clear,
-snowballing, fun process?
+I kept my ideas from surpassing the onboarding requirement, while
+keeping the second requirement of user-uploads in the back of my mind. I
+downloaded the app like a user would.
 
-It has to work better and faster while we assert this through user
-testing. The user went through the app at certain obstacles. They were
-not obstacles anymore. The user's excitement diminished after
-downloading from the iOS Store, our user feedback told me.
+I carryed this motivation to all user interviews I planned. At the
+actual interviews I stayed on task to finished withing the agreed upon
+tim.
 
-My notes from that interview also included that users with gluten
-allergies wanted to apply a known common recipe to get back a set of
-ingredients that could not contain specific items The users needed to
-get a fast solution given by the likely circumstances.
+There was a disconnect in how the visuals were presented at first
+download. At this point, the visuals are increasingly important. It was
+all bearing down on representation of the final followed recipe in the
+product as shown. Did instagram become and implied competition also?
 
-There was something very stylistically similar about the picture of
-meals added in the app. The app was seeded with pictures of meals
-created under similar visual depth and lighting conditions. We
-interviewed the stakeholder briefly. Yes, the stakeholder did do some
-uploads. Here was our implicit requirement. There was a measure of
-certainty that this needed to happen, so much so that an attempt to get
-the ball rolling was made in that respect.
+Isn't instagram fun? What are the design decisions I can make to clarify
+to the new user that this will be a clear, snowballing, fun process? Was
+fun a requirement per design work?
 
-When I first downloaded the app, I had burning questions and wanted to
-take a look. I just wanted to gain a bit of faux-user insight. So, I
-became a user briefly and downloaded the app.
+Interview notes pointed out gluten allergies deep within a food product
+as the ingredients are bing put together. It was helpful to see the
+finished product, first. We had pictures! There was something very
+stylistically similar about the pictures of meals already in the app.
+They had similar visual depth and lighting conditions.
 
-I noticed a subtle separation in the pattern within the recipe
-calculator. Was the source of these pictures known to one of the
-co-founders? In taking a look and breaking up the answers, the
-interviews also showed me the downloaded information-overload was in
-also in pieces.
+Here was our implicit requirement. Get the user to upload a picture.
 
-**Sketches**
+It has to work better and faster. we assert initial findings through
+user testing. Already downloading from the iOS Store, our user still had
+many obstacles to go before even thinking of uploading their creation.
 
-I was versatile in drawing essentially the digital equivalent of moving
-parts on a pocket-sized portrait rectangle. What was the core issue I
-was there to solve? I needed to unearth it. It is always a combination
-of factors that lead to an undesired outcome rather than a holy-grail
-answer?
+An interviewee even said “why not just google it”.
 
-Until now, I worked my time management muscles and policed my own time
-per task. I time slot per question answered. I want to have in mind a
-better picture of what my contribution will be. I tried to define the
-boundaries of what I was doing. I segmented my time explicitly. I still
-do that today, even.
+**Process**
 
-In my approach to boxing my time, my attention to the task was greater,
-and the work improved. In meetings, I did this for myself behind the
-scenes by preparing estimates of the amount of time I would take up to
-put an idea forward.
+One time slot per question answered. That was new process. I would
+police my own time per task.
 
+Deadlines and boundaries versus freedom and variability. Time makes an
+excellent boundary maker. Physically the digital equivalent is a
+pocket-sized portrait rectangle or index card.
 
-<a id="orgefd181b"></a>
+**Conclusion**
 
-## Conclusion
-
-In other areas of life, It is always a combination of factors that lead
-to an undesired state. Working with the stakeholder to house the idea of
-an onboarding ramp on to their project, I stuck to their requirements. I
-did not yet have an appropriate gauging of project priorities and what
-could be chalked up to and indefinate pursuit of side problem.
+I stuck to business requirements. I also guaged user-uploads to be an
+important marker. .
 
 **Summary**
 
-Don't get in the way of learning. Know what to leave out.
+Keep that second perhaps implicit problem in frame as you work to remove
+obstacles in an app implementation.
 
-**See for yourself**
+**See the prototype**
 
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
+
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
+
