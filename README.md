@@ -71,7 +71,7 @@ being two doctors behind the project was a hit with users as well.
 
 **App Background**
 
-Created by two doctors to get you recipes that were *gluten-free.*
+Created by two doctors to get you recipes that were gluten-free.
 
 It does not work to be in a kitchen following a recipe off the phone
 while checking off disclaimer boxes, learning how to do that, then
