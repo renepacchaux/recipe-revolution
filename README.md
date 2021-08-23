@@ -24,6 +24,7 @@
 
 ### Project Challenge
 
+
 There were too many hurdles to getting the first recipe. I needed that
 time to be shorter, to know I made made a dent. Apple store analytics
 showed abrupt uninstalls. It was clear to me that if the digital flow
