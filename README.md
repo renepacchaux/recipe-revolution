@@ -207,4 +207,3 @@ Don't get in the way of learning. Know what to leave out.
 **See for yourself**
 
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
-
