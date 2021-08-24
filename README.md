@@ -1,22 +1,25 @@
-# Uptake obstacles
+1.  # Uptake obstacles
+
+1.  [Recipe Revolution](#orgafcfdce)
+    1.  [Visuals that work](#org07456c7)
+        1.  [Project Challenge](#orge6895b3)
+        2.  [Research](#org11b98ae)
+        3.  [Design Work](#org83fe1a3)
 
 
-1.  [Recipe Revolution](#org9e42916)
-    1.  [Recipe Apps](#org8ff4521)
-        1.  [Project Challenge](#org9fddb56)
-        2.  [Research](#org66cbec4)
-        3.  [Design Work](#org846c5ea)
-
-
-<a id="org9e42916"></a>
+<a id="orgafcfdce"></a>
 
 # Recipe Revolution
 
-<a id="org8ff4521"></a>
+[prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
-## Recipe Apps
 
-<a id="org9fddb56"></a>
+<a id="org07456c7"></a>
+
+## Visuals that work
+
+
+<a id="orge6895b3"></a>
 
 ### Project Challenge
 
@@ -41,8 +44,8 @@ as soon as possible.
 I box my time. As a result, my attention to the task is well-boudaried
 and the work improved when I had micro-deadlines. In meetings, I did
 behind the scenes with a digital set of timers. I prepared estimates of
-the amount of time I would take up. I controlled the pace at which my
-ideas were put forth.
+the amount of time I would take up. I controlled the pace of idea idea
+to paper.
 
 **The wrong flow**
 
@@ -57,7 +60,7 @@ foodie photos. There were a business requirement and part of the cycle
 of decreasing learn times by crowd-converting recipes.
 
 
-<a id="org66cbec4"></a>
+<a id="org11b98ae"></a>
 
 ### Research
 
@@ -111,7 +114,7 @@ At a second stakeholder interview, onboarding had stayed on as priority
 one. I was able to work with that.
 
 
-<a id="org846c5ea"></a>
+<a id="org83fe1a3"></a>
 
 ### Design Work
 
