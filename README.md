@@ -1,4 +1,4 @@
-1.  # Uptake obstacles
+# Uptake obstacles
 
 1.  [Recipe Revolution](#orgafcfdce)
     1.  [Visuals that work](#org07456c7)
