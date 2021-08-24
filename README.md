@@ -11,8 +11,6 @@
 
 # Recipe Revolution
 
-[prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
-
 
 <a id="org07456c7"></a>
 
