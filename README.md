@@ -1,4 +1,4 @@
-1.  # Uptake obstacles
+# Uptake obstacles
 
 
 1.  [Recipe Revolution](#orgfaddcb2)
@@ -175,4 +175,3 @@ obstacles in an app implementation.
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 ![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
-
