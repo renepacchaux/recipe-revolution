@@ -1,35 +1,31 @@
 # Uptake obstacles
 
 
-1.  [Recipe Revolution](#orgfaddcb2)
-    1.  [Visuals that work](#org252c1bd)
-        1.  [Project Challenge](#orgb119b4a)
-        2.  [Research](#org206c365)
-        3.  [Design Work](#orgb8e69f1)
+1.  [Recipe Revolution](#org9e42916)
+    1.  [Recipe Apps](#org8ff4521)
+        1.  [Project Challenge](#org9fddb56)
+        2.  [Research](#org66cbec4)
+        3.  [Design Work](#org846c5ea)
 
 
-<a id="orgfaddcb2"></a>
+<a id="org9e42916"></a>
 
 # Recipe Revolution
 
-[prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
+<a id="org8ff4521"></a>
+
+## Recipe Apps
 
 
-<a id="org252c1bd"></a>
-
-## Visuals that work
-
-
-<a id="orgb119b4a"></a>
+<a id="org9fddb56"></a>
 
 ### Project Challenge
 
-
 There were too many hurdles to getting the first recipe. I needed that
-time to be shorter, to know I made a dent. Apple store analytics
-showed abrupt uninstalls. It was clear that if the digital flow
-were improved and clicks down to a small number, I could make way for
-other issues that needed further addressing.
+time to be shorter, to know I made a dent. Apple store analytics showed
+abrupt uninstalls. It was clear that if the digital flow were improved
+and clicks down to a small number, I could make way for other issues
+that needed further addressing.
 
 **UX Designer Thought Process**
 
@@ -38,16 +34,16 @@ points I will make about how I came to realize what can be considered a
 big deal to the business and the user. I'll also tell you what I did
 about it.
 
-The implementation gave me positive vibes. I focused on nuanced evidence
-of a seeded approach to the upload meal feature? This case study focuses
-on why it wasn't mentioned to get Instagram-style foodie meal selfies on
-the app as soon as possible.
+The implementation gave me positive vibes. I spotted nuanced evidence of
+a seeded approach to the upload meal feature. This case study focuses on
+an implicit requirement to get Instagram-style meal selfies on the app
+as soon as possible.
 
-I box my time. As a result, my attention to the task was greater, and
-the work improved when I had micro-deadlines. In meetings, I did behind
-the scenes with a digital set of timers. I prepared estimates of the
-amount of time I would take up. I controlled the pace at which my ideas
-were put forth.
+I box my time. As a result, my attention to the task is well-boudaried
+and the work improved when I had micro-deadlines. In meetings, I did
+behind the scenes with a digital set of timers. I prepared estimates of
+the amount of time I would take up. I controlled the pace at which my
+ideas were put forth.
 
 **The wrong flow**
 
@@ -62,7 +58,7 @@ foodie photos. There were a business requirement and part of the cycle
 of decreasing learn times by crowd-converting recipes.
 
 
-<a id="org206c365"></a>
+<a id="org66cbec4"></a>
 
 ### Research
 
@@ -71,7 +67,7 @@ being two doctors behind the project was a hit with users as well.
 
 **App Background**
 
-Created by two doctors to get you recipes that were gluten-free.
+Created by two doctors to get you recipes that were *gluten-free.*
 
 It does not work to be in a kitchen following a recipe off the phone
 while checking off disclaimer boxes, learning how to do that, then
@@ -116,7 +112,7 @@ At a second stakeholder interview, onboarding had stayed on as priority
 one. I was able to work with that.
 
 
-<a id="orgb8e69f1"></a>
+<a id="org846c5ea"></a>
 
 ### Design Work
 
@@ -163,7 +159,7 @@ pocket-sized portrait rectangle or index card.
 **Conclusion**
 
 I stuck to business requirements. I also guaged user-uploads to be an
-important marker. .
+important marker.
 
 **Summary**
 
@@ -175,3 +171,4 @@ obstacles in an app implementation.
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 ![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
+
