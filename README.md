@@ -26,9 +26,9 @@
 
 
 There were too many hurdles to getting the first recipe. I needed that
-time to be shorter, to know I made made a dent. Apple store analytics
-showed abrupt uninstalls. It was clear to me that if the digital flow
-where improved, and clicks down to a small number, I could make way for
+time to be shorter, to know I made a dent. Apple store analytics
+showed abrupt uninstalls. It was clear that if the digital flow
+were improved and clicks down to a small number, I could make way for
 other issues that needed further addressing.
 
 **UX Designer Thought Process**
@@ -40,18 +40,18 @@ about it.
 
 The implementation gave me positive vibes. I focused on nuanced evidence
 of a seeded approach to the upload meal feature? This case study focuses
-on why it wasn't mentioned to get instagram-style foodie meal selfies on
+on why it wasn't mentioned to get Instagram-style foodie meal selfies on
 the app as soon as possible.
 
 I box my time. As a result, my attention to the task was greater, and
 the work improved when I had micro-deadlines. In meetings, I did behind
-the scenes with a digital set of timers . I prepared estimates of the
+the scenes with a digital set of timers. I prepared estimates of the
 amount of time I would take up. I controlled the pace at which my ideas
 were put forth.
 
 **The wrong flow**
 
-For some gluten intake may improve your life. For others, it is life or
+For some, gluten intake may improve your life. For others, it is life or
 death.
 
 We did not expect to see so many obstacles. Many pixels were dedicated
