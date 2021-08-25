@@ -1,26 +1,25 @@
 # Ingredient pictures
 
+1.  [Recipe Revolution](#org5706a74)
+    1.  [Timeboxing](#org3464cc9)
+        1.  [Project Challenge](#orgcdd9bb0)
+        2.  [Research](#orgee8bbeb)
+        3.  [Design Work](#org5bf431e)
 
-1.  [Recipe Revolution](#org7e43d78)
-    1.  [Recipe apps](#org50e2157)
-        1.  [Project Challenge](#org0817cbe)
-        2.  [Research](#org4efef56)
-        3.  [Design Work](#org1b40a47)
 
-
-<a id="org7e43d78"></a>
+<a id="org5706a74"></a>
 
 # Recipe Revolution
 
 ![prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 
-<a id="org50e2157"></a>
+<a id="org3464cc9"></a>
 
-## Recipe apps
+## Timeboxing
 
 
-<a id="org0817cbe"></a>
+<a id="orgcdd9bb0"></a>
 
 ### Project Challenge
 
@@ -41,7 +40,7 @@ For some, gluten intake may improve your life. For others, it is life or death.
 We did not expect to see so many obstacles. Many pixels were dedicated to warnings about even using the app. This is not what went wrong. Shifting pixels for legal cookie warnings seems like something easy to take away. But I identified an implicit requirement: user-uploaded photos. There were a business requirement and part of the cycle of decreasing learn times by crowd-converting recipes.
 
 
-<a id="org4efef56"></a>
+<a id="orgee8bbeb"></a>
 
 ### Research
 
@@ -74,7 +73,7 @@ I connect with the playfulness of the pencil sketches to think freely and draw f
 At a second stakeholder interview, onboarding had stayed on as priority one. I was able to work with that.
 
 
-<a id="org1b40a47"></a>
+<a id="org5bf431e"></a>
 
 ### Design Work
 
@@ -102,7 +101,7 @@ Time makes an excellent boundary. Physically the digital equivalent is a pocket-
 
 **Conclusion**
 
-I stuck to business requirements. I also gauged user-uploads to be an important marker.
+I stuck to business requirements. I also gauged user uploads to be an important marker.
 
 **Summary**
 
@@ -113,4 +112,6 @@ Keep that second perhaps implicit problem in frame as you work to remove obstacl
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 ![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
+
+<https://www.renepacchaux.com/charts-overview/api-recipe-extraction>
 
