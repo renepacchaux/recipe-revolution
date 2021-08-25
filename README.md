@@ -1,25 +1,26 @@
 # Ingredient pictures
 
-1.  [Recipe Revolution](#org114e79e)
-    1.  [Speeding things up](#orgc0cff91)
-        1.  [Project Challenge](#org5f8e9db)
-        2.  [Research](#org2072f9e)
-        3.  [Design Work](#org0ff5592)
+
+1.  [Recipe Revolution](#org7e43d78)
+    1.  [Recipe apps](#org50e2157)
+        1.  [Project Challenge](#org0817cbe)
+        2.  [Research](#org4efef56)
+        3.  [Design Work](#org1b40a47)
 
 
-<a id="org114e79e"></a>
+<a id="org7e43d78"></a>
 
 # Recipe Revolution
 
 ![prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 
-<a id="orgc0cff91"></a>
+<a id="org50e2157"></a>
 
-## Speeding things up
+## Recipe apps
 
 
-<a id="org5f8e9db"></a>
+<a id="org0817cbe"></a>
 
 ### Project Challenge
 
@@ -40,7 +41,7 @@ For some, gluten intake may improve your life. For others, it is life or death.
 We did not expect to see so many obstacles. Many pixels were dedicated to warnings about even using the app. This is not what went wrong. Shifting pixels for legal cookie warnings seems like something easy to take away. But I identified an implicit requirement: user-uploaded photos. There were a business requirement and part of the cycle of decreasing learn times by crowd-converting recipes.
 
 
-<a id="org2072f9e"></a>
+<a id="org4efef56"></a>
 
 ### Research
 
@@ -68,20 +69,20 @@ The business went as far as to seed the application with photos. This action val
 
 To get ideas out of my head and onto paper, I had a sketch design session. In a very imaginative but focused way, I created a representation of our users. I scheduled time to make a persona. This ended up turning into two personas.
 
-I connect with the playfulness of the pencil sketches to think freely and draw from a high quantity of inspiration. I need to know what to leave out. Sketching helps with that. According to the testing, some areas of the visuals were a distracton.
+I connect with the playfulness of the pencil sketches to think freely and draw from a high quantity of inspiration. I need to know what to leave out. Sketching helps with that. According to the testing, some areas of the visuals were a distraction.
 
 At a second stakeholder interview, onboarding had stayed on as priority one. I was able to work with that.
 
 
-<a id="org0ff5592"></a>
+<a id="org1b40a47"></a>
 
 ### Design Work
 
-I kept my ideas from surpassing the onboarding requirement while keeping the second requirement of user-uploads in the back of my mind. I downloaded the app like a user would.
+I kept my ideas from surpassing the onboarding requirement while keeping the second requirement of user uploads in the back of my mind. I downloaded the app as a user would.
 
 I carryed this motivation to all user interviews I planned. At the actual interviews, I stayed on task to finished within the agreed-upon time.
 
-There was a disconnect in how the visuals were presented at first download. At this point, the visuals are increasingly important. It was all bearing down on the representation of the final followed recipe in the product as shown. Did instagram become an implied competition also?
+There was a disconnect in how the visuals were presented at first download. At this point, the visuals are increasingly important. It was all bearing down on the representation of the final followed recipe in the product as shown. Did Instagram become an implied competition also?
 
 Isn't Instagram fun? What are the design decisions I can make to clarify to the new user that this will be a clear, snowballing, fun process? Was fun a requirement per design work?
 
@@ -110,4 +111,6 @@ Keep that second perhaps implicit problem in frame as you work to remove obstacl
 **See the prototype**
 
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
+
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
 
