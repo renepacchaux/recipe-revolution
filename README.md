@@ -1,35 +1,50 @@
 # Ingredient pictures
 
-1.  [Recipe Revolution](#org5706a74)
-    1.  [Timeboxing](#org3464cc9)
-        1.  [Project Challenge](#orgcdd9bb0)
-        2.  [Research](#orgee8bbeb)
-        3.  [Design Work](#org5bf431e)
+
+1.  [Recipe Revolution](#org991c249)
+    1.  [Recipe apps](#orgcda9599)
+    2.  [Timeboxing](#org9f6d3ce)
+        1.  [Project Challenge](#orgb8994e1)
+        2.  [Research](#org279f95b)
+        3.  [Design Work](#org227b001)
 
 
-<a id="org5706a74"></a>
+<a id="org991c249"></a>
 
 # Recipe Revolution
 
 ![prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
 
 
-<a id="org3464cc9"></a>
+<a id="orgcda9599"></a>
+
+## Recipe apps
+
+
+<a id="org9f6d3ce"></a>
 
 ## Timeboxing
 
 
-<a id="orgcdd9bb0"></a>
+<a id="orgb8994e1"></a>
 
 ### Project Challenge
 
 There were too many hurdles to getting the first recipe. I needed that time to be shorter, to know I made a dent. Apple store analytics showed abrupt uninstalls. It was clear that if the digital flow were improved and clicks down to a small number, I could make way for other issues that needed further addressing.
+
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6128f5d452b0bfc04d013244_RR%20Current%20State%20Flow.svg)
+
+<https://www.renepacchaux.com/charts-overview/current-user-flow>
 
 **UX Designer Thought Process**
 
 How can my work lead to a well-rounded and informed goal? There are many points I will make about how I came to realize what can be considered a big deal to the business and the user. I'll also tell you what I did about it.
 
 The implementation gave me positive vibes. I spotted nuanced evidence of a seeded approach to the upload meal feature. This case study focuses on an implicit requirement to get Instagram-style meal selfies on the app as soon as possible.
+
+![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
+
+<https://www.renepacchaux.com/charts-overview/api-recipe-extraction>
 
 I box my time. As a result, my attention to the task is well-boundaried, and the work improved when I had micro-deadlines. In meetings, I did behind the scenes with a digital set of timers. I prepared estimates of the amount of time I would take up. I controlled the pace of idea to paper.
 
@@ -40,7 +55,7 @@ For some, gluten intake may improve your life. For others, it is life or death.
 We did not expect to see so many obstacles. Many pixels were dedicated to warnings about even using the app. This is not what went wrong. Shifting pixels for legal cookie warnings seems like something easy to take away. But I identified an implicit requirement: user-uploaded photos. There were a business requirement and part of the cycle of decreasing learn times by crowd-converting recipes.
 
 
-<a id="orgee8bbeb"></a>
+<a id="org279f95b"></a>
 
 ### Research
 
@@ -73,7 +88,7 @@ I connect with the playfulness of the pencil sketches to think freely and draw f
 At a second stakeholder interview, onboarding had stayed on as priority one. I was able to work with that.
 
 
-<a id="org5bf431e"></a>
+<a id="org227b001"></a>
 
 ### Design Work
 
@@ -110,8 +125,4 @@ Keep that second perhaps implicit problem in frame as you work to remove obstacl
 **See the prototype**
 
 -   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
-
-![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
-
-<https://www.renepacchaux.com/charts-overview/api-recipe-extraction>
 
