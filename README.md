@@ -1,4 +1,4 @@
-Speaker 1    00:00:01    
+  Speaker 1    00:00:01    
 
 For recipe revolution. What I worked on, It was an application for an iOS app owner To doctors. The current implementation Had it shoes With Too much To get through After installing Another thing was that the pictures aren't up to date and why is that a big deal? The research Undertaken Told us a team of five UX designers That to get to the, the point of the app, Which is to convert recipes, To Gluten free recipes That needed To be learned as quickly as possible. So we had to clear hurdles. There were a lot of hurdles In the flow of this app. We thought about the user first As their only hurdle being, getting to the first recipe Also. So making sure they are not boxed down by check boxes, that require them to agree to the terms, To hash out what it meant for the business  
 
