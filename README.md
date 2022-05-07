@@ -1,128 +1,26 @@
-# Ingredient pictures
+Speaker 1    00:00:01    
 
+For recipe revolution. What I worked on, It was an application for an iOS app owner To doctors. The current implementation Had it shoes With Too much To get through After installing Another thing was that the pictures aren't up to date and why is that a big deal? The research Undertaken Told us a team of five UX designers That to get to the, the point of the app, Which is to convert recipes, To Gluten free recipes That needed To be learned as quickly as possible. So we had to clear hurdles. There were a lot of hurdles In the flow of this app. We thought about the user first As their only hurdle being, getting to the first recipe Also. So making sure they are not boxed down by check boxes, that require them to agree to the terms, To hash out what it meant for the business  
 
-1.  [Recipe Revolution](#org991c249)
-    1.  [Recipe apps](#orgcda9599)
-    2.  [Timeboxing](#org9f6d3ce)
-        1.  [Project Challenge](#orgb8994e1)
-        2.  [Research](#org279f95b)
-        3.  [Design Work](#org227b001)
 
+Speaker 0    00:02:19    To,  
 
-<a id="org991c249"></a>
 
-# Recipe Revolution
+Speaker 1    00:02:20    We took information about the uninstalls And tried to see what we could find Many were uninstalling Immediately. So we to have too much to go on there. So we went to The legal warnings That gave us an easy takeaway for the legal warnings. I identified something that Can be checked off at the beginning And persist As having approved those terms. This was a business requirement. Two doctors behind the project Were concerned Since they are making these recipes, gluten free via, And their background is medicine. They made it a priority to have it On the app So that they could be clear About what Type of advice they are receiving. However, for the user, their hands are full. They are doing the cooking. There's not much more than you can do When you're already doing two things at a time, much less checking off numerous disclaimer, boxes, Things that were helpful about the product. We had pictures already. The style did not match up between those pictures, but in our re search, it came up as something we had to address. So why the pictures, The differing lighting conditions, But at the same time Too similar  
+Speaker 1    00:05:24    Death Gave us our aha moment, An implicit requirement To get the user, to upload the picture Other than the product owner to upload a picture. So the other way around, The way we got here was from sketching To break down the sketching part a bit. The first step in sketching brought us towards What can we do To Shave away some of the alerting time When they first explore the app, The group of five designers. And I tested several times The least amount of clicks To get to the first Step Organically. Our solution became cutting down the time To get to exploring The app To a very small number effectively. The moving obstacles for the business Who is trying to onboard the user, Improving the time it takes to learn the app Was facilitated by drawing out a user flow. That is, We take it as far as we can see the application, Getting through all these steps, linearly with every action Syncing up with every photo To become the normal that the app wants to be. We got ideas Before We had sketches. We put those ideas on paper <affirmative> then we put the sketches on paper.  
 
-![prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
+    
+    Speaker 1    00:08:19    We have A high tolerance for Viewing The visual part of an app. The pictures, Playfulness of apps, like Instagram Kind of came out In the sketches After the testing, Which is why we knew we were on some kind of track And that the visuals were not in the end of distraction And were helping the business priority of a onboard. So that's what I work with Aside from Taking and removing The legalese a bit. Another requirement was as The photos, that was the second requirement. It was necessary to stitch these Priorities together. And even if we called to something already done In the business space, something like Instagram <affirmative>, at least it came out after testing. And it was our impression that this was our main deliverable. We have many obstacles to go Before we get to a mid-level wire frame, Including what screens would be needed just for the upload stage. But we knew where to dedicate our immediate time within the timeframe of three exact weeks, We talked to the doctor, Presented what we thought our visuals would be And why pictures were so important. Why had in one photographer, It seemed, we're not bringing out the positive, the good energy  
 
+    
+    Speaker 1    00:11:28    Of the Food products that can be transformed together with the app. This was becoming clear <affirmative>. And so At this point, the visuals Heading into the high fi wire frame For the team's final representation Of the product Of a fun product, We could further discuss sketching for a minute. I identified the implicit requirement Because it was shown at the moment that the users were not converting. Imagine your situation, your working in the kitchen and following the recipe off the phone. But you're checking a lot of disclaimer, boxes and learning how to use the app. Cutting down this time Was also in the user interviews We conducted. We stayed within the bounds of the time. It took To complete one interview, But it was worth the effort We made significant Gains into the issues that were needed for addressing that needed to be addressed by a UX designer, Pinpointing places in the app flow that only created doubt that this app app was indeed what the user needed, even though the user Likely got there because of a Need to search for a gluten free conversion app, Sticking and compiling, the facts Was a big deal for the business and the user  
 
-<a id="orgcda9599"></a>
+    
+    Speaker 1    00:14:30    And nuances Of cutting down the time, Turned into an actual approach That given more time could transport the upload meal feature Into The richest. Most interesting takeaway for a new user directly addressing Uninstalls That were happening immediately after install. This person made me look at my, my own time to do things and to learn What the user Theme was trying to tell me. And I was inspired to improve my own time boxing efforts And control my pace Of putting ideas to paper. The furnish product Has now very little warnings, Approvals check boxes, that persist Metrics that need Be looked at again And Something easier to explore For some, A necessity To explore gluten free options. We cut down the time that they spent Learning how to use the app And putting to better use Their motivation And their momentum By addressing an implicit Instagram style problem. This Can be Also used for takeaways for the restaurant business in general. There are lessons here of about stitching together. Well lit Maybe semi-professional Pictures, Cuz you really have to reflect that of The style of foodies To Get somebody interested. So we did make a dent in the project.  
+Speaker 1    00:17:53    The amount of time, again was three weeks From Interviews, stakeholder interviews To mid fidelity prototype And the later prototype  
 
-## Recipe apps
+    
+    Speaker 0    00:18:13    Was done  
 
-
-<a id="org9f6d3ce"></a>
-
-## Timeboxing
-
-
-<a id="orgb8994e1"></a>
-
-### Project Challenge
-
-There were too many hurdles to getting the first recipe. I needed that time to be shorter, to know I made a dent. Apple store analytics showed abrupt uninstalls. It was clear that if the digital flow were improved and clicks down to a small number, I could make way for other issues that needed further addressing.
-
-![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6128f5d452b0bfc04d013244_RR%20Current%20State%20Flow.svg)
-
-<https://www.renepacchaux.com/charts-overview/current-user-flow>
-
-**UX Designer Thought Process**
-
-How can my work lead to a well-rounded and informed goal? There are many points I will make about how I came to realize what can be considered a big deal to the business and the user. I'll also tell you what I did about it.
-
-The implementation gave me positive vibes. I spotted nuanced evidence of a seeded approach to the upload meal feature. This case study focuses on an implicit requirement to get Instagram-style meal selfies on the app as soon as possible.
-
-![img](https://assets.website-files.com/5d7d44d8cb34e48b799f7af4/6120490da671e23eccd6c1d5_drizzling.png)
-
-<https://www.renepacchaux.com/charts-overview/api-recipe-extraction>
-
-I box my time. As a result, my attention to the task is well-boundaried, and the work improved when I had micro-deadlines. In meetings, I did behind the scenes with a digital set of timers. I prepared estimates of the amount of time I would take up. I controlled the pace of idea to paper.
-
-**The wrong flow**
-
-For some, gluten intake may improve your life. For others, it is life or death.
-
-We did not expect to see so many obstacles. Many pixels were dedicated to warnings about even using the app. This is not what went wrong. Shifting pixels for legal cookie warnings seems like something easy to take away. But I identified an implicit requirement: user-uploaded photos. There were a business requirement and part of the cycle of decreasing learn times by crowd-converting recipes.
-
-
-<a id="org279f95b"></a>
-
-### Research
-
-Many users I interviewed wanted the recipe app to work better. There being two doctors behind the project was a hit with users as well.
-
-**App Background**
-
-Created by two doctors to get you recipes that were *gluten-free.*
-
-Imagine working in a kitchen following a recipe off the phone while checking off disclaimer boxes, learning how to do that, then learning the original thing again.
-
-Back in the interview with the stakeholder, I got my first glimpse of a spoken need - onboarding. There was a clear business need that almost flew under the radar if it were not for imagery in the up-and-running app.
-
-Let us talk about a physical hurdle. The user's hands are full doing the cooking, literally. One cannot do much more other than the two things of cooking and going off a recipe. Our first steps in sketching brought us towards doing some of the upfront learning to scale for the user base. When we tested the sketches, we also tested the learning times.
-
-The solution was to cut the time-to-conversion steps to a small number.
-
-**Removing obstacles to fast learning**
-
-User flows are a glimpse into a direction a user can take within the bounds of the app. To improve the time it takes to learn the app, we improve the user flow.
-
-The business went as far as to seed the application with photos. This action validates the gap between where the app is now and where the business wants it to be.
-
-**What I did to start the process**
-
-To get ideas out of my head and onto paper, I had a sketch design session. In a very imaginative but focused way, I created a representation of our users. I scheduled time to make a persona. This ended up turning into two personas.
-
-I connect with the playfulness of the pencil sketches to think freely and draw from a high quantity of inspiration. I need to know what to leave out. Sketching helps with that. According to the testing, some areas of the visuals were a distraction.
-
-At a second stakeholder interview, onboarding had stayed on as priority one. I was able to work with that.
-
-
-<a id="org227b001"></a>
-
-### Design Work
-
-I kept my ideas from surpassing the onboarding requirement while keeping the second requirement of user uploads in the back of my mind. I downloaded the app as a user would.
-
-I carryed this motivation to all user interviews I planned. At the actual interviews, I stayed on task to finished within the agreed-upon time.
-
-There was a disconnect in how the visuals were presented at first download. At this point, the visuals are increasingly important. It was all bearing down on the representation of the final followed recipe in the product as shown. Did Instagram become an implied competition also?
-
-Isn't Instagram fun? What are the design decisions I can make to clarify to the new user that this will be a clear, snowballing, fun process? Was fun a requirement per design work?
-
-Interview notes pointed out gluten allergies deep within a food product as the ingredients are being put together. It was helpful to see the finished product first. We had pictures! There was something very stylistically similar about the pictures of meals already in the app. They had similar visual depth and lighting conditions.
-
-Here was our implicit requirement. Get the user to upload a picture.
-
-It has to work better and faster. We assert initial findings through user testing. Already downloading from the iOS Store, our users still had many obstacles to go before even thinking of uploading their creation.
-
-An interviewee even said, “why not just google it.”
-
-**Process**
-
-One time slot per question answered. That was a new process. I would police my own time per task.
-
-Time makes an excellent boundary. Physically the digital equivalent is a pocket-sized portrait rectangle or index card.
-
-**Conclusion**
-
-I stuck to business requirements. I also gauged user uploads to be an important marker.
-
-**Summary**
-
-Keep that second perhaps implicit problem in frame as you work to remove obstacles in an app implementation.
-
-**See the prototype**
-
--   [prototype](<https://xd.adobe.com/view/038ea04b-be9b-42a8-8b5a-e1c9f1537b96-56dd/?fullscreen>)
-
+    
+    Speaker 1    00:18:17    Afterwards. 
