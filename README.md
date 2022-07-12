@@ -18,8 +18,9 @@ The research let us to this:  A person at home, busy, who decides to take on coo
 
 If the main players in this project are photos and exploration, how might I use generate more engagement (and less uninstalls)? Is the attention to disclaimers justified or obtrusive given the circumstances?
 
-> User is busy with just enough motivation to make their own recipe.  Where is the presentation that distinguishes Recipe Revolution from an Instagram with the same information?  Does the current app library of recipes give enought impetus to explore new and strange yet delicious meals?
+User is busy with just enough motivation to make their own recipe.  Where is the presentation that distinguishes Recipe Revolution from an Instagram with the same information?  Does the current app library of recipes give enought impetus to explore new and strange yet delicious meals?
 
+![menu](https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-com/7f12cc03/800_sp20220518_112907_295.png)
 
 # Design
 
