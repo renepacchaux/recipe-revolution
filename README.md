@@ -1,32 +1,31 @@
+The project consisted of an iOS app, pictures, where it was crucial to have recipes to create.  Gluten allergies and the need to find more options was specifically the prior design put forward as the societal fix.
 
+Created, designed and developed to launch to the Apple App Store,  Two doctors put to task a UX team that created wireframes, research and prototypes.
 
-# Recipe Revolution
-
-The project consisted of an iOS app, pictures, and recipes to create.  If one comes down with gluten allergies and need to find more options, or specifically, to make your own brand of gluten-free meals, this was your fix.
-
-App was created, designed and developed to launch to the Apple App Store by two doctors. I was part of a UX team that created wireframes and prototypes post-initial any initial deploy.
-
-Despite having a solid backing, the pair where now busy trying to manage uninstalls.
+Despite having a solid start, the Apple store data revealed an immediate need to  manage uninstalls.
 
 
 # Problem
 
-I participated in this project mid-cycle overall. I wanted to know what numerous steps, if any, were becoming hold-ups for the user. If it was important for the stakeholder to lay down disclaimers everywhere, how might a gluten-free user get stuck in that process?  What casual exploration of the app it takes longer than it should reasonably take?  At first glance, I could see the pictures aren't up to date. We start with a hypothetical of a person at home, yet busy, who decides to take on this exploratory challenge over just googling a solution.
+This project was mid-cycle. What numerous steps are also hold-ups for the user? Critical for the stakeholder was to lay down disclaimers everywhere. So, how might it look to a gluten-free user to get caught up in that process?  Casual exploration many of us do in a newly installed app was taking unreasonably long. Glancing at the food pictures, you see they are outdated.
 
 
 # Solution
 
-The players in this mid-cycle project are photos and exploration.  How might I use these as attention-takers to generate more engagement (and less uninstalls)?
+The research let us to this:  A person at home, busy, who decides to take on cooking a recipe with a substitution.
 
+"Why not just googling it?" - a user test interviewee
 
-# Research
+If the main players in this project are photos and exploration, how might I use generate more engagement (and less uninstalls)? Is the attention to disclaimers justified or obtrusive given the circumstances?
 
-Take this scenario: User is busy and only has just enough motivation to make their own recipe through exploration.  Does a 'gram-style' presentation have the same attention drains? To distinguish itself, Recipe Revolution addresses the immediate need that is tied in with the desire to explore new and interesting recipes.
+> User is busy with just enough motivation to make their own recipe.  Where is the presentation that distinguishes Recipe Revolution from an Instagram with the same information?  Does the current app library of recipes give enought impetus to explore new and strange yet delicious meals?
 
 
 # Design
 
-Using pictures helps us to explore recipes.  If we think to flows of other recipe apps, we know this to be true.  Disclaimers, on the other hand, lures-me not. Recipes let you learn how to put it all together in the kitchen. Initially, the work made the team hungry. Contributing a first recipe needed to be just as intuitive.
+Decision 1: Using pictures helps us to explore recipes.
+
+If we think to flows of other recipe apps, we know this to be true.  Disclaimers, on the other hand, lures-me not. Recipes let you learn how to put it all together in the kitchen. Initially, the work made the team hungry. Contributing a first recipe needed to be just as intuitive.
 
 
 # What do Disclaimers do?
