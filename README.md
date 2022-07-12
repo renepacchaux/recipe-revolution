@@ -31,6 +31,7 @@ Decision 1: Using pictures helps us to explore recipes.
 
 If we think to flows of other recipe apps, we know this to be true.  Disclaimers, on the other hand, lures-me not. Recipes let you learn how to put it all together in the kitchen. Initially, the work made the team hungry. Contributing a first recipe needed to be just as intuitive.
 
+![custom menu](https://s3-us-east-2.amazonaws.com/opt-renepacchaux-com-bucket/opt-renepacchaux-com/1a9fe4c5/800_Custom%2BMenu.png)
 
 ### What do Disclaimers do?
 
